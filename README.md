@@ -1,5 +1,4 @@
-
-"                                      <div align="center">
+_                                       <div align="center">
 ![image](https://github.com/jayaustin1122/jayaustin1122/assets/95513694/815438d4-ab37-4835-a848-389828d259b1)
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
