@@ -31,7 +31,7 @@ _                                       <div align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaustin1122&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayaustin1122&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayaustin1122&&show_icons=true&theme=dark)
 
 
 </div>
