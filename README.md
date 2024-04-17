@@ -18,7 +18,7 @@ _                                       <div align="center">
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </p>
 
-🚀 Passionate 3rd Year IT Student & Mobile App Developer
+🚀 Passionate Mobile App Developer
 
 
 🛠️ Skilled in Kotlin, Java, and crafting seamless mobile applications. Arduino enthusiast, fluent in HTML, Javascript, and CSS. Proficient in Figma, Android Studio, and VB.NET for web apps. Let's bring ideas to life! 💡
